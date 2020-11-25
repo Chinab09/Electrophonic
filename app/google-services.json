@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808186771305",
+    "firebase_url": "https://datamanage-46ea8.firebaseio.com",
+    "project_id": "datamanage-46ea8",
+    "storage_bucket": "datamanage-46ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808186771305:android:c9ef527437823cf7466ff8",
+        "android_client_info": {
+          "package_name": "com.example.electrophonic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808186771305-hfblct78af42qkg9249rmk63n810dpc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlCHuIrs9pyYiDolUlGtVVgZXB1a_AqC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808186771305-hfblct78af42qkg9249rmk63n810dpc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
